@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\commission\bin\Debug\net8.0\commission.exe
+C:\Users\group012\source\repos\Assignment\commission\bin\Debug\net8.0\commission.deps.json
+C:\Users\group012\source\repos\Assignment\commission\bin\Debug\net8.0\commission.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\commission\bin\Debug\net8.0\commission.dll
+C:\Users\group012\source\repos\Assignment\commission\bin\Debug\net8.0\commission.pdb
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.dll
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\refint\commission.dll
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.pdb
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\commission.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\commission\obj\Debug\net8.0\ref\commission.dll

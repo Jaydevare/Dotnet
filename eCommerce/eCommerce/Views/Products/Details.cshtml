@@ -1,0 +1,42 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Details Of - " + Model.ProductName;
+    var discountedPrice = Model.UnitPrice - (Model.UnitPrice * Model.Discount) / 100;
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <img src=@Url.Content(Model.Picture) class="img-fluid" alt=@Model.ProductName />
+        </div>
+        <div class="col-md-6">
+            <h1>@Model.ProductName</h1>
+            Be The First To Review The Product
+            <br />
+            <h2 class="text-danger" style="text-decoration :line-through">&#8377;@Model.UnitPrice</h2>
+            <h1 class="text-success">&#8377;@discountedPrice</h1>
+            <hr style="height: 5px; color : black;">
+            <div class="mt-3">
+                <h4>SIZE</h4>
+                <input type="button" name="size" class="btn btn-outline-dark" value="6" style="margin:5px" />
+                <input type="button" name="size" class="btn btn-outline-dark" value="7" style="margin:5px" />
+                <input type="button" name="size" class="btn btn-outline-dark" value="8" style="margin:5px" />
+                <input type="button" name="size" class="btn btn-outline-dark" value="9" style="margin:5px" />
+                <input type="button" name="size" class="btn btn-outline-dark" value="10" style="margin:5px" />
+            </div>
+            <div class="mt-3">
+                <h4>Colors</h4>
+                <span style="font-size : 20px">Black</span><button class="btn" name="color" type="button" style="background-color:black; height:30px; width:30px; margin:5px"></button>
+                <span style="font-size : 20px">Brown</span><button class="btn" name="color" type="button" style="background-color:brown; height:30px; width:30px; margin:5px"></button>
+            </div>
+            <div class="mt-3">
+                <label>Qty</label>
+                <input type="number" value="1" class="form-control w-25" style="width:10px" />
+            </div>
+            <div class="mt-3">
+                <a class="btn btn-primary" name="addCart" value="addToCart" asp-controller="Carts" asp-action="AddToCart" asp-route-productId="@Model.ProductId">Add to Cart</a>
+            </div>
+        </div>
+
+    </div>
+</div>

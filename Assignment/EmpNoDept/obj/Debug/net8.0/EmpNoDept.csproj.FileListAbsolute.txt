@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\EmpNoDept\bin\Debug\net8.0\EmpNoDept.exe
+C:\Users\group012\source\repos\Assignment\EmpNoDept\bin\Debug\net8.0\EmpNoDept.deps.json
+C:\Users\group012\source\repos\Assignment\EmpNoDept\bin\Debug\net8.0\EmpNoDept.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\EmpNoDept\bin\Debug\net8.0\EmpNoDept.dll
+C:\Users\group012\source\repos\Assignment\EmpNoDept\bin\Debug\net8.0\EmpNoDept.pdb
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.dll
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\refint\EmpNoDept.dll
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.pdb
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\EmpNoDept.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\EmpNoDept\obj\Debug\net8.0\ref\EmpNoDept.dll

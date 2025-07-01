@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\swaping\bin\Debug\net8.0\swaping.exe
+C:\Users\group012\source\repos\Assignment\swaping\bin\Debug\net8.0\swaping.deps.json
+C:\Users\group012\source\repos\Assignment\swaping\bin\Debug\net8.0\swaping.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\swaping\bin\Debug\net8.0\swaping.dll
+C:\Users\group012\source\repos\Assignment\swaping\bin\Debug\net8.0\swaping.pdb
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.dll
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\refint\swaping.dll
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.pdb
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\swaping.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\swaping\obj\Debug\net8.0\ref\swaping.dll

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A225F1-2DBB-4FBE-B1E0-92F52302EC13}|calculator\\calculator.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A225F1-2DBB-4FBE-B1E0-92F52302EC13}|calculator\\calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FED561-70AE-4D0C-B52A-38124A9F8AF0}|EmpNoDept\\EmpNoDept.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\empnodept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FED561-70AE-4D0C-B52A-38124A9F8AF0}|EmpNoDept\\EmpNoDept.csproj|solutionrelative:empnodept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5CE89C-9079-4A96-AC39-092175875CC1}|commission\\commission.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\commission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5CE89C-9079-4A96-AC39-092175875CC1}|commission\\commission.csproj|solutionrelative:commission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EB9149-35F2-4DF3-85A4-0E68AD1DAE24}|Salary\\Salary.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EB9149-35F2-4DF3-85A4-0E68AD1DAE24}|Salary\\Salary.csproj|solutionrelative:salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C84FD-E81E-44CB-97C4-494C91643DCE}|ASCII\\ASCII.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\ascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C84FD-E81E-44CB-97C4-494C91643DCE}|ASCII\\ASCII.csproj|solutionrelative:ascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3C4F08-568C-453B-9DA9-E6CCEEC3F3ED}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3C4F08-568C-453B-9DA9-E6CCEEC3F3ED}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE40EBE-FD00-41E9-A412-52C262B07627}|LeapYear\\LeapYear.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE40EBE-FD00-41E9-A412-52C262B07627}|LeapYear\\LeapYear.csproj|solutionrelative:leapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB8A04A-FDC5-4E6D-A90A-ADC3221DBEF9}|swaping\\swaping.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\swaping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB8A04A-FDC5-4E6D-A90A-ADC3221DBEF9}|swaping\\swaping.csproj|solutionrelative:swaping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76F8483-42F0-4E9E-9F59-E069D05D3FAB}|calSumandAverage\\calSumandAverage.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\calsumandaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76F8483-42F0-4E9E-9F59-E069D05D3FAB}|calSumandAverage\\calSumandAverage.csproj|solutionrelative:calsumandaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E3F424-91D9-42AB-A838-D62DF92358E4}|addtion\\addtion.csproj|c:\\users\\group012\\source\\repos\\git\\assignment\\addtion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E3F424-91D9-42AB-A838-D62DF92358E4}|addtion\\addtion.csproj|solutionrelative:addtion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\calculator\\Program.cs",
+              "RelativeDocumentMoniker": "calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\calculator\\Program.cs",
+              "RelativeToolTip": "calculator\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:14:34.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\EmpNoDept\\Program.cs",
+              "RelativeDocumentMoniker": "EmpNoDept\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\EmpNoDept\\Program.cs",
+              "RelativeToolTip": "EmpNoDept\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:30:40.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\commission\\Program.cs",
+              "RelativeDocumentMoniker": "commission\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\commission\\Program.cs",
+              "RelativeToolTip": "commission\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:14:54.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\LeapYear\\Program.cs",
+              "RelativeDocumentMoniker": "LeapYear\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\LeapYear\\Program.cs",
+              "RelativeToolTip": "LeapYear\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:06:57.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:05:06.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\ASCII\\Program.cs",
+              "RelativeDocumentMoniker": "ASCII\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\ASCII\\Program.cs",
+              "RelativeToolTip": "ASCII\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:49:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\Salary\\Program.cs",
+              "RelativeDocumentMoniker": "Salary\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\Salary\\Program.cs",
+              "RelativeToolTip": "Salary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:38:28.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\swaping\\Program.cs",
+              "RelativeDocumentMoniker": "swaping\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\swaping\\Program.cs",
+              "RelativeToolTip": "swaping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:22:40.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\addtion\\Program.cs",
+              "RelativeDocumentMoniker": "addtion\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\addtion\\Program.cs",
+              "RelativeToolTip": "addtion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:19:13.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\calSumandAverage\\Program.cs",
+              "RelativeDocumentMoniker": "calSumandAverage\\Program.cs",
+              "ToolTip": "C:\\Users\\group012\\source\\repos\\git\\Assignment\\calSumandAverage\\Program.cs",
+              "RelativeToolTip": "calSumandAverage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:58:12.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

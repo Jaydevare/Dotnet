@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\calSumandAverage\bin\Debug\net8.0\calSumandAverage.exe
+C:\Users\group012\source\repos\Assignment\calSumandAverage\bin\Debug\net8.0\calSumandAverage.deps.json
+C:\Users\group012\source\repos\Assignment\calSumandAverage\bin\Debug\net8.0\calSumandAverage.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\calSumandAverage\bin\Debug\net8.0\calSumandAverage.dll
+C:\Users\group012\source\repos\Assignment\calSumandAverage\bin\Debug\net8.0\calSumandAverage.pdb
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.dll
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\refint\calSumandAverage.dll
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.pdb
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\calSumandAverage.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\calSumandAverage\obj\Debug\net8.0\ref\calSumandAverage.dll

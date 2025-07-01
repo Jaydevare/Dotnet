@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\addtion\bin\Debug\net8.0\addtion.exe
+C:\Users\group012\source\repos\Assignment\addtion\bin\Debug\net8.0\addtion.deps.json
+C:\Users\group012\source\repos\Assignment\addtion\bin\Debug\net8.0\addtion.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\addtion\bin\Debug\net8.0\addtion.dll
+C:\Users\group012\source\repos\Assignment\addtion\bin\Debug\net8.0\addtion.pdb
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.dll
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\refint\addtion.dll
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.pdb
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\addtion.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\addtion\obj\Debug\net8.0\ref\addtion.dll

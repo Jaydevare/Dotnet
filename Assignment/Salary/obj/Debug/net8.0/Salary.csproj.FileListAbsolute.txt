@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\Salary\bin\Debug\net8.0\Salary.exe
+C:\Users\group012\source\repos\Assignment\Salary\bin\Debug\net8.0\Salary.deps.json
+C:\Users\group012\source\repos\Assignment\Salary\bin\Debug\net8.0\Salary.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\Salary\bin\Debug\net8.0\Salary.dll
+C:\Users\group012\source\repos\Assignment\Salary\bin\Debug\net8.0\Salary.pdb
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.dll
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\refint\Salary.dll
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.pdb
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\Salary.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\Salary\obj\Debug\net8.0\ref\Salary.dll

@@ -1,0 +1,14 @@
+C:\Users\group012\source\repos\Assignment\calculator\bin\Debug\net8.0\calculator.exe
+C:\Users\group012\source\repos\Assignment\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\group012\source\repos\Assignment\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\Users\group012\source\repos\Assignment\calculator\bin\Debug\net8.0\calculator.dll
+C:\Users\group012\source\repos\Assignment\calculator\bin\Debug\net8.0\calculator.pdb
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.dll
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\group012\source\repos\Assignment\calculator\obj\Debug\net8.0\ref\calculator.dll
